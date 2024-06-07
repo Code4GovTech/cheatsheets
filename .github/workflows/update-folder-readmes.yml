@@ -1,0 +1,35 @@
+name: Update Folder READMEs
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readmes:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Use Node.js 20
+      uses: actions/setup-node@v2
+      with:
+        node-version: '20'
+
+    - name: Run script to update folder READMEs
+      run: python update_readmes.py
+
+    - name: Commit changes
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
+        git add .
+        git commit -m 'Update folder READMEs with list of markdown files' || echo "No changes to commit"
+        git push
