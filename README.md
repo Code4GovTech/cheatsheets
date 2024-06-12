@@ -27,34 +27,20 @@ Reinforce your understanding of key concepts and syntax.
 Speed up your development process by avoiding constant look-ups.
 
 ## 📑 Guide Sheets
-
-<details>
-  <summary>📂 Frameworks or Libraries</summary>
-  <ul>
-    <li>📄 <a href="./Frameworks-or-Libraries/Angular.md">Angular</a></li>
-    <li>📄 <a href="./Frameworks-or-Libraries/React.md">React</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>📂 Frontend</summary>
-  <ul>
-    <li>📄 <a href="./Frontend/CSS.md">CSS</a></li>
-    <li>📄 <a href="./Frontend/html.md">HTML</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>📂 Languages</summary>
-  <ul>
-    <li>📄 <a href="./Languages/Javascript.md">JavaScript</a></li>
-    <li>📄 <a href="./Languages/RUST.md">Rust</a></li>
-    <li>📄 <a href="./Languages/Typescript.md">TypeScript</a></li>
-    <li>📄 <a href="./Languages/markdown.md">Markdown</a></li>
-    <li>📄 <a href="./Languages/python.md">Python</a></li>
-  </ul>
-</details>
-
+<!-- CONTENTS -->
+- 📂 Frameworks or Libraries
+  - 📄 [Angular](./Frameworks-or-Libraries/Angular.md)
+  - 📄 [React](./Frameworks-or-Libraries/React.md)
+- 📂 Frontend
+  - 📄 [CSS](./Frontend/CSS.md)
+  - 📄 [HTML](./Frontend/html.md)
+- 📂 Languages
+  - 📄 [Javascript](./Languages/Javascript.md)
+  - 📄 [Rust](./Languages/RUST.md)
+  - 📄 [Typescript](./Languages/Typescript.md)
+  - 📄 [Markdown](./Languages/markdown.md)
+  - 📄 [Python](./Languages/python.md)
+<!-- END CONTENTS -->
 [Explore Resources](./resources.html)
 
 ## 🌟 How to Make the Best Use of These Resources?
