@@ -75,6 +75,6 @@ Join us in enhancing our resources! Here's how you can contribute:
 
 Become a part of the C4GT community! Engage in meaningful discussions and contribute to projects by clicking the link below:
 
-[![Join us on Discord](https://img.shields.io/badge/Join%20us%20on-Discord-7289da)](#)
+[![Join us on Discord](https://img.shields.io/badge/Join%20us%20on-Discord-7289da)](https://discord.gg/V3Aa9qk4Wt)
 
 Thank you for visiting our repository! Happy coding! 🚀
