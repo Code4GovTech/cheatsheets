@@ -1,14 +1,32 @@
-# 📚 Ultimate Programming Cheatsheets Collection 🎉
+<h1 align="center"><a href="https://codeforgovtech.in/">Code for GovTech (C4GT)</a> Open Source Program</h1>
 
-Welcome to the **Ultimate Programming Cheatsheets Collection**! This repository is a curated list of cheatsheets for various programming languages, designed to help developers, both beginners and experts, find quick references and enhance their coding productivity.
+<br/>
+<a href="https://codeforgovtech.in/"></a>
+<div align="Center"><img src="https://static.wixstatic.com/media/060b0c_8029055ce0074bfaa4bb6d9f1c2c33d2~mv2.png/v1/fill/w_2266,h_2168,al_c,q_95,usm_0.66_1.00_0.01,enc_auto/060b0c_8029055ce0074bfaa4bb6d9f1c2c33d2~mv2.png" height ="500" align="Center"/>
+<br>
+</div>
 
-## 🚀 Getting Started
 
-To get started, simply browse through the list of available cheatsheets below and click on the links to view or download them.
+# 📚 Get Your Coding Basics Right! 🎉
 
-## 📑 Available Cheatsheets
+**Welcome to C4GT!**
 
-Here are the programming languages covered in this repository:
+Are you a beginner eager to contribute to C4GT open community projects but need clarification on the relevant tech skills? Or a pro looking for a quick refresher before diving into full coding mode? C4GT has got you covered.
+
+We’ve compiled guide sheets on the top 9 tech stacks used in the C4GT Community.
+
+## 🚀 Why Use These Guide Sheets?
+
+### Quick Reference 📌
+Save time by having all essential information at your fingertips.
+
+### Aid in Learning 📖
+Reinforce your understanding of key concepts and syntax.
+
+### Boost in Productivity ⚡
+Speed up your development process by avoiding constant look-ups.
+
+## 📑 Guide Sheets
 <!-- CONTENTS -->
 # 📚 Contents
 
@@ -25,15 +43,17 @@ Here are the programming languages covered in this repository:
   - 📄 [Markdown](./Languages/markdown.md)
   - 📄 [Python](./Languages/python.md)
 <!-- END CONTENTS -->
-## 🌟 Why Use Cheatsheets?
+[Explore Resources](./resources.html)
+
+## 🌟 How to Make the Best Use of These Resources?
 
 - **Quick Reference** 📌: Save time by having all essential information at your fingertips.
 - **Learning Aid** 📖: Reinforce your understanding of key concepts and syntax.
 - **Productivity Boost** ⚡: Speed up your development process by avoiding constant look-ups.
 
-## 📥 How to Contribute
+## 📥 How to Contribute & Help Others in Learning?
 
-We welcome contributions from the community! If you have a cheatsheet you'd like to add or improvements to suggest, please follow these steps:
+Join us in enhancing our resources! Here's how you can contribute:
 
 1. **Fork the Repository** 🍴
 2. **Create a New Branch** 🔀: `git checkout -b add-new-cheatsheet`
@@ -43,6 +63,8 @@ We welcome contributions from the community! If you have a cheatsheet you'd like
 
 ## 💬 Join the Community
 
-Have questions or want to discuss anything related to cheatsheets? Join our community on [Discord](#) or follow us on [Twitter](#).
+Become a part of the C4GT community! Engage in meaningful discussions and contribute to projects by clicking the link below:
+
+[![Join us on Discord](https://img.shields.io/badge/Join%20us%20on-Discord-7289da)](https://discord.gg/V3Aa9qk4Wt)
 
 Thank you for visiting our repository! Happy coding! 🚀
