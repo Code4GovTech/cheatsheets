@@ -28,12 +28,14 @@ Speed up your development process by avoiding constant look-ups.
 
 ## 📑 Guide Sheets
 <!-- CONTENTS -->
-- 📂 Frameworks or Libraries
+# 📚 Contents
+
+- 📂 Frameworks-or-Libraries
   - 📄 [Angular](./Frameworks-or-Libraries/Angular.md)
   - 📄 [React](./Frameworks-or-Libraries/React.md)
 - 📂 Frontend
-  - 📄 [CSS](./Frontend/CSS.md)
-  - 📄 [HTML](./Frontend/html.md)
+  - 📄 [Css](./Frontend/CSS.md)
+  - 📄 [Html](./Frontend/html.md)
 - 📂 Languages
   - 📄 [Javascript](./Languages/Javascript.md)
   - 📄 [Rust](./Languages/RUST.md)
