@@ -55,13 +55,15 @@ Speed up your development process by avoiding constant look-ups.
   </ul>
 </details>
 
-## 🌟 How to Make the Best Use of These Resources
+[Explore Resources](./resources.html)
+
+## 🌟 How to Make the Best Use of These Resources?
 
 - **Quick Reference** 📌: Save time by having all essential information at your fingertips.
 - **Learning Aid** 📖: Reinforce your understanding of key concepts and syntax.
 - **Productivity Boost** ⚡: Speed up your development process by avoiding constant look-ups.
 
-## 📥 How to Contribute & Help Others in Learning
+## 📥 How to Contribute & Help Others in Learning?
 
 Join us in enhancing our resources! Here's how you can contribute:
 
