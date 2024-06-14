@@ -1,5 +1,6 @@
 # Angular Cheatsheet
 Welome to C4GT's Angular Cheetsheet here you will find everything to start with Angular.
+See [Typescript](https://github.com/Code4GovTech/cheatsheets/blob/main/Languages/Typescript.md "Typescript") as this is prereq for the Angular 
 
 # Table of Contents
 
