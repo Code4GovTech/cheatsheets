@@ -422,17 +422,6 @@ and then in SomeComponent we have access to:
 
 Good idea is to create a custom Route component that will show specific component only when our authentication logic is passed:
 
-```jsx
-function PrivateRoute({ component: Component, ...rest }) {
-    return (
-        <Route {...rest} render={(props) => (_isAuthentictedLogic_) ?
-            (<Component {...props} />) :
-            (<Redirect to={{ pathname: "/noAccess", state: { from: props.location } }} />
-            )}
-        />
-    );
-}
-```
 
 Then instead of Route use PrivateRoute
 
