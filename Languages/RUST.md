@@ -734,3 +734,8 @@ cargo doc --open
 ---
 
 This tutorial provides a comprehensive overview of Rust, from basic concepts to advanced techniques. By mastering these topics, you'll be able to write safe, concurrent, and efficient Rust programs.
+
+Here is a link to a Youtube Tutorial which can help you learn the language in a better way <>
+```
+https://youtu.be/BpPEoZW5IiY?si=jPOCC5yanWbrFIAL
+```
