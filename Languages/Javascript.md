@@ -481,36 +481,16 @@ fetchData();
 ## Tutorials
 
 ### Official Documentation
-- [Project Documentation](https://example.com/documentation) - Comprehensive guide and API documentation.
-- [API Reference](https://example.com/api) - Detailed reference for the API endpoints.
+- [Documentation](https://devdocs.io/javascript/) - Comprehensive guide and API documentation.
+- [API Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference) - Detailed reference for the API endpoints.
 
-### Getting Started
-- [Quick Start Guide](https://example.com/quickstart) - A quick guide to get your project up and running.
-- [Installation Instructions](https://example.com/installation) - Step-by-step installation process.
 
 ### Tutorials
-- [Beginner Tutorial](https://example.com/beginner-tutorial) - Step-by-step tutorial for beginners.
-- [Intermediate Tutorial](https://example.com/intermediate-tutorial) - In-depth tutorial for intermediate users.
-- [Advanced Tutorial](https://example.com/advanced-tutorial) - Advanced techniques and features.
+- [Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg) - Step-by-step tutorial for beginners.
+- [Hindi Tutorial](https://www.youtube.com/watch?v=hKB-YGF14SY) - Tutorial in Hindi Language
+- [Advanced Tutorial](https://www.youtube.com/watch?v=R9I85RhI7Cg) - Advanced techniques and features.
 
-### Examples
-- [Example Projects](https://example.com/examples) - Collection of example projects to learn from.
-- [Code Snippets](https://example.com/snippets) - Useful code snippets and patterns.
-
-### Community Resources
-- [Community Forum](https://example.com/forum) - Join the discussion with other users and developers.
-- [Stack Overflow](https://stackoverflow.com/questions/tagged/project-tag) - Ask questions and find answers.
-- [GitHub Issues](https://github.com/your-repo/issues) - Report issues or request features.
-
-### Videos and Webinars
-- [YouTube Channel](https://youtube.com/your-channel) - Video tutorials and webinars.
-- [Webinar Archive](https://example.com/webinars) - Archive of past webinars.
 
 ### Books and Articles
-- [E-Book: Introduction to Project](https://example.com/ebook) - Free e-book for beginners.
-- [Article: Best Practices](https://example.com/articles/best-practices) - Learn about best practices for using the project.
-
-### Additional Resources
-- [Cheat Sheet](https://example.com/cheatsheet) - Quick reference guide.
-- [FAQ](https://example.com/faq) - Frequently Asked Questions.
-- [Glossary](https://example.com/glossary) - Glossary of terms used in the project.
+- [Eloquent JavaScript](https://eloquentjavascript.net/Eloquent_JavaScript_small.pdf)
+- [Javascript Bible](https://everythingcomputerscience.com/books/all.pdf) - Learn about best practices for using the project.
