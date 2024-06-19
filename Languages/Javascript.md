@@ -14,6 +14,7 @@
 - [DOM Manipulation](#dom-manipulation)
 - [Events](#events)
 - [Async Programming](#async-programming)
+- [Tutorials](#tutorials)
 
 ## Variables
 
@@ -476,3 +477,20 @@ async function fetchData() {
 
 fetchData();
 ```
+
+## Tutorials
+
+### Official Documentation
+- [Documentation](https://devdocs.io/javascript/) - Comprehensive guide and API documentation.
+- [API Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference) - Detailed reference for the API endpoints.
+
+
+### Tutorials
+- [Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg) - Step-by-step tutorial for beginners.
+- [Hindi Tutorial](https://www.youtube.com/watch?v=hKB-YGF14SY) - Tutorial in Hindi Language
+- [Advanced Tutorial](https://www.youtube.com/watch?v=R9I85RhI7Cg) - Advanced techniques and features.
+
+
+### Books and Articles
+- [Eloquent JavaScript](https://eloquentjavascript.net/Eloquent_JavaScript_small.pdf)
+- [Javascript Bible](https://everythingcomputerscience.com/books/all.pdf) - Learn about best practices for using the project.
