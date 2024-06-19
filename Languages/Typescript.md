@@ -14,6 +14,7 @@
 - [Type Inference](#type-inference)
 - [Advanced Types](#advanced-types)
 - [Utility Types](#utility-types)
+- [Tutorials](#tutorials)
 
 ## Getting Started
 
@@ -498,3 +499,24 @@ const todo: TodoPreview = {
     completed: false
 };
 ```
+
+## Tutorials
+
+### Offline Documentation
+
+- [Typescript Documentation](https://www.typescriptlang.org/docs/)
+
+### Interactive Tutorials
+
+- [Typescript Playground](https://www.typescriptlang.org/play)
+- [Learn TypeScript in Y Minutes](https://learnxinyminutes.com/docs/typescript/)
+
+### Video Tutorials
+
+- [TypeScript Tutorial for Beginners by Academind](https://www.youtube.com/watch?v=BwuLxPH8IDs)
+- [TypeScript Crash Course by Traversy Media](https://www.youtube.com/watch?v=BCg4U1FzODs)
+
+### Blogs and Articles
+
+- [Deep Dive](https://www.typescriptlang.org/docs/handbook/declaration-files/deep-dive.html)
+- [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
