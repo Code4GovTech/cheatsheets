@@ -855,3 +855,9 @@ A: Using command `npx create-react-app {app name}`
 **Q: What will be the result of `npm eject`?**
 
 A: Webpack for React application won't be handled automatically anymore. We will have access to Webpack configuration files in order to customize it to our needs. 
+
+
+### Here are some tutorials you can follow for polishing your React concepts:
+- [Full length React tutorial](https://www.youtube.com/watch?v=bMknfKXIFA8&t=36762s)
+- [Quick recap React tutorial](https://www.youtube.com/watch?v=SqcY0GlETPk)
+- [Official React Documentation](https://react.dev/reference/react)

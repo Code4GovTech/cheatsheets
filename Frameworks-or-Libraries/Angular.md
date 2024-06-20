@@ -1117,5 +1117,9 @@ Use 'set' accessor
   // some logic here
 }
 ```
+### Here are some tutorials you can follow for polishing your Angular concepts:
+- [Full length anular tutorial](https://www.youtube.com/watch?v=3qBXWUpoPHo&t=7742s)
+- [Quick recap Angular tutorial](https://www.youtube.com/watch?v=k5E2AVpwsko&t=89s)
+- [Official Angular Documentation](https://angular.dev/overview)
 
 Happy Contributing to all ><
