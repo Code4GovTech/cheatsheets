@@ -676,7 +676,7 @@ img {
 
 This tutorial provides a comprehensive overview of CSS, from basic concepts to advanced techniques. By mastering these topics, you'll be able to create visually appealing and responsive web pages.
 
-Here is a link to a Youtube Tutorial which can help you learn the language in a better way <>
+### Here is a link to a Youtube Tutorial which can help you learn the language in a better way <>
 ```
 https://youtu.be/ESnrn1kAD4E?si=Z2gX5J0jf7CiBQbI
 ```

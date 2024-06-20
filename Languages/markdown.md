@@ -322,6 +322,11 @@
     - [ ] Task 2
     - [ ] Task 3
 
+## Tutorial you can follow for polishing your markdown concepts:
+- [Markdown playground](https://dillinger.io/)
+- [A2Z Makdown concepts in 10 minutes 🎥](https://www.youtube.com/watch?v=_PPWWRV6gbA&t=60s)
+
+
 ## Markdown Best Practices
 
 ### Keep It Simple

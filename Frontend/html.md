@@ -248,6 +248,10 @@
     </script>
     ```
 
+### Here is the link to some tutorials you can follow :
+- [HTML full length tutorial🏃‍♂️](https://www.youtube.com/watch?v=HcOc7P5BMi4)
+
+- [Quick recap tutorial🚀](https://www.youtube.com/watch?v=qz0aGYrrlhU)
 ## HTML Best Practices
 
 ### Use Semantic Elements

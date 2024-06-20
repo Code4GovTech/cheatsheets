@@ -428,6 +428,11 @@
     print(dog.speak())   # Output: Bark
     ```
 
+## Here are some tutorials you can follow for polishing your python concepts:
+- [Python full length tutorial🐍](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
+- [Python quick recap video 🚀](https://www.youtube.com/watch?v=kqtD5dpn9C8)
+- [Official Python Documentation 📃](https://docs.python.org/3/tutorial/index.html)
+
 **Conclusion:**
 
 This tutorial covered the basics of Python, including its syntax, control flow, data structures, functions, modules, file handling, exception handling, and object-oriented programming. Python is a versatile language with a wide range of applications. Keep practicing and exploring more advanced topics to enhance your Python skills. Happy coding!

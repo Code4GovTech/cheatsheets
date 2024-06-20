@@ -6,10 +6,11 @@
   <title>Resource Library</title>
   <style>
     body {
-      display: flex;
-      margin: 0;
-      font-family: Arial, sans-serif;
+      display: flex; /* Remove default margin */
+      font-family: 'Roboto', sans-serif; /* Use Roboto font */
+      overflow: hidden; /* Prevents scroll bars on the body */
     }
+
     #sidebar {
       width: 200px;
       position: fixed;
@@ -20,29 +21,78 @@
       overflow-y: auto;
       border-right: 1px solid #ddd;
     }
+
     #content {
-      margin-left: 220px;
+      margin-left:300px; /* Adjusted to match the width of the sidebar */
       padding: 20px;
       flex-grow: 1;
+      overflow-y: auto; /* Allows content to scroll if necessary */
+      height: 100vh;
     }
+
     h3 {
       margin-top: 0;
     }
+
     ul {
       list-style-type: none;
       padding: 0;
     }
+
     li {
       margin: 10px 0;
     }
+
     a {
       text-decoration: none;
       color: #0366d6;
     }
+
     a:hover {
       text-decoration: underline;
     }
+
+    iframe {
+      width: 100%;
+      height: 100%;
+      border: none;
+    }
   </style>
+  <!-- Correct CDN link for marked.js -->
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      const links = document.querySelectorAll('a[target="content-frame"]');
+      const iframe = document.querySelector('iframe[name="content-frame"]');
+
+      links.forEach(link => {
+        link.addEventListener('click', async (e) => {
+          e.preventDefault();
+          const url = link.getAttribute('href');
+          try {
+            console.log(`Fetching: ${url}`);
+            const response = await fetch(url);
+            if (!response.ok) {
+              throw new Error(`Network response was not ok: ${response.statusText}`);
+            }
+            const markdown = await response.text();
+            console.log(`Fetched content: ${markdown.substring(0, 100)}...`); // Log first 100 characters
+            const html = marked.parse(markdown);  // Updated to use marked.parse
+            const doc = iframe.contentDocument || iframe.contentWindow.document;
+            doc.open();
+            doc.write(html);
+            doc.close();
+          } catch (error) {
+            console.error('Error fetching the Markdown file:', error);
+            const doc = iframe.contentDocument || iframe.contentWindow.document;
+            doc.open();
+            doc.write('<p>Error loading content. See console for details.</p>');
+            doc.close();
+          }
+        });
+      });
+    });
+  </script>
 </head>
 <body>
   <div id="sidebar">
@@ -66,7 +116,7 @@
     </ul>
   </div>
   <div id="content">
-    <iframe name="content-frame" width="100%" height="100%" style="border:none;"></iframe>
+    <iframe name="content-frame"></iframe>
   </div>
 </body>
 </html>
