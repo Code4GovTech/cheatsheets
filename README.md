@@ -44,7 +44,8 @@ Speed up your development process by avoiding constant look-ups.
   - 📄 [Markdown](./Languages/markdown.md)
   - 📄 [Python](./Languages/python.md)
 <!-- END CONTENTS -->
--------------------
+
+
 
 
 [Explore All Resources](./resources.html)🚀
