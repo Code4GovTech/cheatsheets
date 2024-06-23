@@ -30,6 +30,7 @@ Speed up your development process by avoiding constant look-ups.
 
 ## 📑 Cheat Sheets
 <!-- CONTENTS -->
+# 📚 Contents
 
 - 📂 Frameworks-or-Libraries
   - 📄 [Angular](./Frameworks-or-Libraries/Angular.md)

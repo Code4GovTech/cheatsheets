@@ -1,5 +1,3 @@
-# 📚 Contents
-
 - [Markdown](markdown.md)
 - [Rust](RUST.md)
 - [Typescript](Typescript.md)
