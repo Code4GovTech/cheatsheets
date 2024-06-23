@@ -1,9 +1,11 @@
-<h1 align="center"><a href="https://codeforgovtech.in/">Code for GovTech (C4GT)</a> Open Source Program</h1>
+<h1 align="center">
+    <a href="https://codeforgovtech.in/">Code for GovTech (C4GT)</a>
+</h1>
 
-<br/>
-<a href="https://codeforgovtech.in/"></a>
-<div align="Center"><img src="https://static.wixstatic.com/media/060b0c_8029055ce0074bfaa4bb6d9f1c2c33d2~mv2.png/v1/fill/w_2266,h_2168,al_c,q_95,usm_0.66_1.00_0.01,enc_auto/060b0c_8029055ce0074bfaa4bb6d9f1c2c33d2~mv2.png" height ="500" align="Center"/>
-<br>
+<div align="center">
+    <a href="https://codeforgovtech.in/">
+        <img src="https://static.wixstatic.com/media/060b0c_8029055ce0074bfaa4bb6d9f1c2c33d2~mv2.png/v1/fill/w_2266,h_2168,al_c,q_95,usm_0.66_1.00_0.01,enc_auto/060b0c_8029055ce0074bfaa4bb6d9f1c2c33d2~mv2.png" height="300" align="center"/>
+    </a>
 </div>
 
 
@@ -13,9 +15,9 @@
 
 Are you a beginner eager to contribute to C4GT open community projects but need clarification on the relevant tech skills? Or a pro looking for a quick refresher before diving into full coding mode? C4GT has got you covered.
 
-We’ve compiled guide sheets on the top 9 tech stacks used in the C4GT Community.
+We’ve compiled cheat sheets on the top 9 tech stacks used in the C4GT Community.
 
-## 🚀 Why Use These Guide Sheets?
+## 🚀 Why Use These Cheat Sheets?
 
 ### Quick Reference 📌
 Save time by having all essential information at your fingertips.
@@ -26,9 +28,8 @@ Reinforce your understanding of key concepts and syntax.
 ### Boost in Productivity ⚡
 Speed up your development process by avoiding constant look-ups.
 
-## 📑 Guide Sheets
+## 📑 Cheat Sheets
 <!-- CONTENTS -->
-# 📚 Contents
 
 - 📂 Frameworks-or-Libraries
   - 📄 [Angular](./Frameworks-or-Libraries/Angular.md)
@@ -43,13 +44,12 @@ Speed up your development process by avoiding constant look-ups.
   - 📄 [Markdown](./Languages/markdown.md)
   - 📄 [Python](./Languages/python.md)
 <!-- END CONTENTS -->
-[Explore Resources](./resources.html)
+-------------------
 
-## 🌟 How to Make the Best Use of These Resources?
 
-- **Quick Reference** 📌: Save time by having all essential information at your fingertips.
-- **Learning Aid** 📖: Reinforce your understanding of key concepts and syntax.
-- **Productivity Boost** ⚡: Speed up your development process by avoiding constant look-ups.
+[Explore All Resources](./resources.html)🚀
+
+
 
 ## 📥 How to Contribute & Help Others in Learning?
 

@@ -14,7 +14,6 @@ def update_readme(directory):
         return
 
     with open(readme_path, "w") as readme_file:
-        readme_file.write("# 📚 Contents\n\n")
         for md_file in md_files:
             title = format_title(md_file)
             readme_file.write(f"- [{title}]({md_file})\n")
