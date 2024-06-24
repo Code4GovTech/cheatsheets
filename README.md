@@ -17,20 +17,8 @@ Are you a beginner eager to contribute to C4GT open community projects but need 
 
 We’ve compiled cheat sheets on the top 9 tech stacks used in the C4GT Community.
 
-## 🚀 Why Use These Cheat Sheets?
-
-### Quick Reference 📌
-Save time by having all essential information at your fingertips.
-
-### Aid in Learning 📖
-Reinforce your understanding of key concepts and syntax.
-
-### Boost in Productivity ⚡
-Speed up your development process by avoiding constant look-ups.
-
-## 📑 Cheat Sheets
+# 📑 Cheat Sheets
 <!-- CONTENTS -->
-# 📚 Contents
 
 - 📂 Frameworks-or-Libraries
   - 📄 [Angular](./Frameworks-or-Libraries/Angular.md)
@@ -51,7 +39,16 @@ Speed up your development process by avoiding constant look-ups.
 
 [Explore All Resources](./resources.html)🚀
 
+## 🚀 Why Use These Cheat Sheets?
 
+### Quick Reference 📌
+Save time by having all essential information at your fingertips.
+
+### Aid in Learning 📖
+Reinforce your understanding of key concepts and syntax.
+
+### Boost in Productivity ⚡
+Speed up your development process by avoiding constant look-ups.
 
 ## 📥 How to Contribute & Help Others in Learning?
 
