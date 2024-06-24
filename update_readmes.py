@@ -35,7 +35,7 @@ def generate_repo_structure(path=".", indent=0):
 
 def update_root_readme():
     structure = generate_repo_structure()
-    structure_content = structure
+    structure_content = "" + "\n".join(structure)
 
     readme_path = "README.md"
     if not os.path.exists(readme_path):
