@@ -19,7 +19,6 @@ We’ve compiled cheat sheets on the top 9 tech stacks used in the C4GT Communit
 
 # 📑 Cheat Sheets
 <!-- CONTENTS -->
-
 - 📂 Frameworks-or-Libraries
   - 📄 [Angular](./Frameworks-or-Libraries/Angular.md)
   - 📄 [React](./Frameworks-or-Libraries/React.md)
